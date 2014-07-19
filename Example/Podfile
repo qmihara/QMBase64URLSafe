@@ -1,0 +1,7 @@
+
+target 'QMBase64URLSafe', :exclusive => true do
+  pod "QMBase64URLSafe", :path => "../"
+
+  pod 'Specta', '~> 0.2.1'
+  pod 'Expecta'
+end
