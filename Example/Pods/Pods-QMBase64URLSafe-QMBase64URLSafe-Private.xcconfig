@@ -1,0 +1,5 @@
+#include "Pods-QMBase64URLSafe-QMBase64URLSafe.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/QMBase64URLSafe" "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/QMBase64URLSafe"
+OTHER_LDFLAGS = -ObjC
+PODS_ROOT = ${SRCROOT}
