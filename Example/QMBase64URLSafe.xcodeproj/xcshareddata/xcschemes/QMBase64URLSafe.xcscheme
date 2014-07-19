@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6003F589195388D20070C39A"
-               BuildableName = "QMBase64URLSafe.app"
+               BlueprintIdentifier = "6003F5AD195388D20070C39A"
+               BuildableName = "QMBase64URLSafe.xctest"
                BlueprintName = "QMBase64URLSafe"
                ReferencedContainer = "container:QMBase64URLSafe.xcodeproj">
             </BuildableReference>
@@ -33,8 +33,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F5AD195388D20070C39A"
-               BuildableName = "Tests.xctest"
-               BlueprintName = "Tests"
+               BuildableName = "QMBase64URLSafe.xctest"
+               BlueprintName = "QMBase64URLSafe"
                ReferencedContainer = "container:QMBase64URLSafe.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -42,8 +42,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "QMBase64URLSafe.app"
+            BlueprintIdentifier = "6003F5AD195388D20070C39A"
+            BuildableName = "QMBase64URLSafe.xctest"
             BlueprintName = "QMBase64URLSafe"
             ReferencedContainer = "container:QMBase64URLSafe.xcodeproj">
          </BuildableReference>
@@ -61,8 +61,8 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "QMBase64URLSafe.app"
+            BlueprintIdentifier = "6003F5AD195388D20070C39A"
+            BuildableName = "QMBase64URLSafe.xctest"
             BlueprintName = "QMBase64URLSafe"
             ReferencedContainer = "container:QMBase64URLSafe.xcodeproj">
          </BuildableReference>
@@ -79,8 +79,8 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "QMBase64URLSafe.app"
+            BlueprintIdentifier = "6003F5AD195388D20070C39A"
+            BuildableName = "QMBase64URLSafe.xctest"
             BlueprintName = "QMBase64URLSafe"
             ReferencedContainer = "container:QMBase64URLSafe.xcodeproj">
          </BuildableReference>

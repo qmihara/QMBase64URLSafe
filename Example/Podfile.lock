@@ -1,0 +1,14 @@
+PODS:
+  - QMBase64URLSafe (0.1.0)
+
+DEPENDENCIES:
+  - QMBase64URLSafe (from `../`)
+
+EXTERNAL SOURCES:
+  QMBase64URLSafe:
+    :path: ../
+
+SPEC CHECKSUMS:
+  QMBase64URLSafe: 4b5cfa42624250bce107a069af25cf4db2b9a207
+
+COCOAPODS: 0.33.1
