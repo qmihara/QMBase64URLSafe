@@ -1,6 +1,6 @@
 # QMBase64URLSafe
 
-[![CI Status](http://img.shields.io/travis/Kyusaku Mihara/QMBase64URLSafe.svg?style=flat)](https://travis-ci.org/Kyusaku Mihara/QMBase64URLSafe)
+[![CI Status](http://img.shields.io/travis/qmihara/QMBase64URLSafe.svg?style=flat)](https://travis-ci.org/qmihara/QMBase64URLSafe)
 [![Version](https://img.shields.io/cocoapods/v/QMBase64URLSafe.svg?style=flat)](http://cocoadocs.org/docsets/QMBase64URLSafe)
 [![License](https://img.shields.io/cocoapods/l/QMBase64URLSafe.svg?style=flat)](http://cocoadocs.org/docsets/QMBase64URLSafe)
 [![Platform](https://img.shields.io/cocoapods/p/QMBase64URLSafe.svg?style=flat)](http://cocoadocs.org/docsets/QMBase64URLSafe)
