@@ -1,5 +1,9 @@
 # reference: http://www.objc.io/issue-6/travis-ci.html
 
 language: objective-c
+before_install:
+ - gem install cocoapods -r
+ - cd Example
+ - pod setup
 script:
 - xctool test -workspace Example/QMBase64URLSafe.xcworkspace -scheme QMBase64URLSafe -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
